@@ -19,7 +19,7 @@ To build a [linear regression model](https://github.com/balu12don/Linear-Regress
 
 #### Conclusion:
 
-[Regression Model](https://github.com/balu12don/Linear-Regression/blob/f7d12d3a06ef20cafd72f5419862084c578dc64d/Linear_Regression.ipynb) suggests the following best fit line
+[Regression model](https://github.com/balu12don/Linear-Regression/blob/f7d12d3a06ef20cafd72f5419862084c578dc64d/Linear_Regression.ipynb) suggests the following best fit line
 
 $$ Sales = 4.6 + 0.05*(TV) + 0.1*(Radio) $$
 
