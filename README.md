@@ -1,6 +1,6 @@
-# Multi Linear Regression - Impact of marketing spend on sales
+# Linear Regression
 
-Akul Bajaj, Andres Martinez Tobon, Bharadwaj Yadav Allu
+Team - Akul Bajaj, Andres Martinez Tobon, Bharadwaj Yadav Allu
 
 **Linear regression** is a statistical way of measuring the relationship between a response variable and one or more exploratory variables by fitting a line through observed data. 
 
@@ -17,7 +17,7 @@ To build a linear regression model in python, we’ll follow the following steps
 * Analyze test results using statistical methods
 * Evaluate linear regression assumptions
 
-#### Conclusion
+#### Conclusion:
 
 Model suggests the following best fit line
 
