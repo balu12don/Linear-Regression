@@ -10,7 +10,7 @@ The best way to understand linear regression is through an example. Let's preten
 Predict impact of spenditure across various marketing channels on product sales using a linear regression model.
 
 #### Building the model: 
-To build a linear regression model in python, we’ll follow the following steps:
+To build a [linear regression model]([https://github.com/balu12don/Linear-Regression/blob/f7d12d3a06ef20cafd72f5419862084c578dc64d/Linear_Regression.ipynb]) in python, we’ll follow the following steps:
 
 * Understand and visualize the data
 * Fit the regression model
