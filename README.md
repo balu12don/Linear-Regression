@@ -6,6 +6,8 @@ Team - Akul Bajaj, Andres Martinez Tobon, Bharadwaj Yadav Allu
 
 The best way to understand linear regression is through an example. Let's pretend that you're the CEO of an exciting new company, and like all CEO's, you're interested in seeing if you can improve the product sales. 
 
+You have access to marketing spend by channels and corresponding sales. [Dataset](https://github.com/balu12don/Linear-Regression/blob/0352276304a3107c15ca275bfa082a7666c15045/marketing_data.csv).
+
 #### Objective: 
 Predict impact of spenditure across various marketing channels on product sales using a linear regression model.
 
