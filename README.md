@@ -19,6 +19,11 @@ To build a [linear regression model](https://github.com/balu12don/Linear-Regress
 * Analyze test results using statistical methods
 * Evaluate linear regression assumptions
 
+#### How to use the notebook: 
+* Download the ipynb file
+* Download "marketing_data" dataset in the same folder
+* Run the notebook to fit the multi-linear regression model
+
 #### Conclusion:
 
 [Regression model](https://github.com/balu12don/Linear-Regression/blob/f7d12d3a06ef20cafd72f5419862084c578dc64d/Linear_Regression.ipynb) suggests the following best fit line
