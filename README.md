@@ -1,7 +1,5 @@
 # Linear Regression
 
-Team - Akul Bajaj, Andres Martinez Tobon, Bharadwaj Yadav Allu
-
 **Linear regression** is a statistical way of measuring the relationship between a response variable and one or more exploratory variables by fitting a line through observed data. 
 
 The best way to understand linear regression is through an example. Let's pretend that you're the CEO of an exciting new company, and like all CEO's, you're interested in seeing if you can improve the product sales. 
